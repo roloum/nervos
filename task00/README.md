@@ -1,3 +1,3 @@
-![ckb-node](https://github.com/roloum/nervos/blob/main/ckb-node.png?raw=true)
+![ckb-node](https://github.com/roloum/nervos/blob/master/ckb-node.png?raw=true)
 
-![ckb-indexer](https://github.com/roloum/nervos/blob/main/ckb-indexer.png?raw=true)
+![ckb-indexer](https://github.com/roloum/nervos/blob/master/ckb-indexer.png?raw=true)
